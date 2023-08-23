@@ -9,8 +9,9 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 /**
- * @author raywa
- *
+ * Test cases to test the functionality of the PasswordUtils Class and its methods.
+ * 
+ * @author wangster6
  */
 class TestPasswordUtils {
 

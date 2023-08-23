@@ -14,7 +14,7 @@ import java.util.Scanner;
  * The Bank class represents an ATM application where users can log in, sign up,
  * and perform various account-related actions.
  * 
- * @author wangster612
+ * @author wangster6
  */
 public class Bank {
 	private static final DecimalFormat df = new DecimalFormat("0.00");

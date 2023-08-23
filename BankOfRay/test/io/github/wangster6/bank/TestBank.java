@@ -17,7 +17,7 @@ import org.junit.jupiter.api.Test;
 /**
  * Test cases to test the functionality of the Bank Class and its methods.
  * 
- * @author wangster612
+ * @author wangster6
  */
 class TestBank {
 	private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();

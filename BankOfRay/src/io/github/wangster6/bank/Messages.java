@@ -5,6 +5,8 @@ import java.text.DecimalFormat;
 /**
  * The Messages class provides static methods for printing various messages
  * related to banking operations.
+ * 
+ * @author wangster6
  */
 public class Messages {
 	/** DecimalFormat instance for formatting double values */

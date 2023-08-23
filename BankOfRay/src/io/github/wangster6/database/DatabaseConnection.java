@@ -6,9 +6,14 @@ import java.io.InputStream;
 import java.sql.*;
 import java.util.Properties;
 
+/**
+ * This class manages the database connections using the configurations from the app.properties file.
+ * 
+ * @author wangster6
+ */
 public class DatabaseConnection {
 	/**
-	 * The 
+	 * The path to the properties file used for configuration settings.
 	 */
 	private static final String PROPERTIES_FILE = "resources/app.properties";
 

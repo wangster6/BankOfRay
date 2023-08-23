@@ -6,8 +6,9 @@ package io.github.wangster6.bank;
 import java.util.regex.Pattern;
 
 /**
- * @author raywa
- *
+ * Utility class containing methods for working with passwords.
+ * 
+ * @author wangster6
  */
 public class PasswordUtils {
 	/**
