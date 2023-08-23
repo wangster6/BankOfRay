@@ -1,5 +1,5 @@
 # Ignore app.properties file
-
+app.properties
 
 # Other typical entries in a Java project's .gitignore
 bin/
